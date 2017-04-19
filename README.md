@@ -8,7 +8,7 @@ Enter an image url of your choice into the URL entry, your image should load. Th
 
 ### Prerequisites
 
-You only really a decent modern web browser.
+You only need a decent modern web browser.
 
 #### Installing
 
